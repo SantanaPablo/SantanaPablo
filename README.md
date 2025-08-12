@@ -58,7 +58,7 @@ Apasionado por resolver problemas complejos mediante **automatización** y **mej
 ## 📂 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**ReportesVuelos**](https://github.com/usuario/ReportesVuelos) | Generador de reportes PDF de vuelos | C#, WinForms, iTextSharp, pdfiumviewer |
+| [**ReportesVuelos**](https://github.com/usuario/ReportesVuelos) | Generador de reportes PDF de vuelos y declaraciones juradas para migraciones | C#, WinForms, iTextSharp, pdfiumviewer |
 | [**ImpresorasWEB**](https://github.com/usuario/ImpresorasWEB) | Monitoreo de impresoras vía OIDs | ASP.NET Core, MySQL |
 | [**Remitos**](https://github.com/usuario/remitos) | Aplicación web desarrollada en ASP.NET Core (Razor Pages) para gestionar entradas y salidas de equipos entre Aeroparque y Ezeiza | ASP.NET Core, Razor Pages, MySQL, BarTender 
 | [**Manuales-IA**](https://github.com/usuario/Manuales-IA) | Entrenamiento de IA con manuales | Python, FastAPI, Ollama, ChromaDB |
