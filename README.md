@@ -55,19 +55,12 @@ Apasionado por resolver problemas complejos mediante **automatización** y **mej
 
 ---
 
-## 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usuario&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usuario&layout=compact&theme=tokyonight" height="150" />
-</p>
-
----
-
 ## 📂 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | [**ReportesVuelos**](https://github.com/usuario/ReportesVuelos) | Generador de reportes PDF de vuelos | C#, WinForms, iTextSharp |
 | [**ImpresorasWEB**](https://github.com/usuario/ImpresorasWEB) | Monitoreo de impresoras vía OIDs | ASP.NET Core, MySQL |
+| [**Remitos**](https://github.com/usuario/remitos) | Entrenamiento de IA con manuales | Python, FastAPI, Ollama |
 | [**Manuales-IA**](https://github.com/usuario/Manuales-IA) | Entrenamiento de IA con manuales | Python, FastAPI, Ollama |
 
 ---
