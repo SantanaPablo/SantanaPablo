@@ -51,7 +51,22 @@ Apasionado por resolver problemas complejos mediante **automatización** y **mej
 **Desarrollo:** C#, .NET (Framework/Core), ADO.NET, Entity Framework, ASP.NET, Javascript, AJAX  
 **Bases de datos:** Microsoft SQL Server, MySQL  
 **Metodologías y Herramientas:** POO, arquitectura en capas, UML, ciclo de vida del software, Scrum  
-**Infraestructura:** Docker, Windows/Linux, Redes (modelo OSI), Active Directory  
+**Infraestructura:** Docker, Windows/Linux, Redes (modelo OSI), Active Directory
+
+---
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" title="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" title=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" title="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" title="Windows" />
+</p>
 
 ---
 
