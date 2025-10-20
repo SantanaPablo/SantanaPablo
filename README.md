@@ -9,9 +9,7 @@
 ---
 
 ## 🚀 Sobre mí
-Desarrollador en **.NET** y soporte técnico especializado en optimización de procesos empresariales.  
-He desarrollado soluciones personalizadas para mejorar la eficiencia operativa en sectores de **Aerolíneas Argentinas**.  
-Apasionado por resolver problemas complejos mediante **automatización** y **mejora continua**.
+Desarrollador Backend .NET y técnico especializado en la optimización de procesos empresariales. Desarrollé soluciones aplicando mis conocimientos en C#, .NET, SQL y Python que mejoran la eficiencia operativa en sectores de Aerolíneas Argentinas y reducen errores manuales.
 
 ---
 
@@ -48,10 +46,10 @@ Apasionado por resolver problemas complejos mediante **automatización** y **mej
 ---
 
 ## 🛠 Habilidades Técnicas
-**Desarrollo:** C#, .NET (Framework/Core), ADO.NET, Entity Framework, ASP.NET, Javascript, AJAX  
-**Bases de datos:** Microsoft SQL Server, MySQL  
-**Metodologías y Herramientas:** POO, arquitectura en capas, UML, ciclo de vida del software, Scrum  
-**Infraestructura:** Docker, Windows/Linux, Redes (modelo OSI), Active Directory
+**Desarrollo:** C#, .NET, ASP.NET, API Web RESTful, ADO.NET, EF, Javascript, Python
+**Bases de datos:** Microsoft SQL Server, MySQL.
+**Metodologías y Herramientas:** POO, Patrones de Diseño, UML, Ciclo de Vida del Software, Metodologías Ágiles
+**Infraestructura:** Docker, SO (Windows y Linux), redes (capas de red, modelo OSI).
 
 ---
 
