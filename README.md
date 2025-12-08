@@ -46,10 +46,10 @@ Desarrollador .NET y técnico especializado en la optimización de procesos empr
 ---
 
 ## 🛠 Habilidades Técnicas
-**Desarrollo:** C#, .NET, ASP.NET, API Web RESTful, ADO.NET, EF, Javascript, Python
-**Bases de datos:** Microsoft SQL Server, MySQL.
-**Metodologías y Herramientas:** POO, Patrones de Diseño, UML, Ciclo de Vida del Software, Metodologías Ágiles
-**Infraestructura:** Docker, SO (Windows y Linux), redes (capas de red, modelo OSI).
+- **Desarrollo:** C#, .NET, ASP.NET, API Web RESTful, ADO.NET, EF, Javascript, Python
+- **Bases de datos:** Microsoft SQL Server, MySQL.
+- **Metodologías y Herramientas:** POO, Patrones de Diseño, UML, Ciclo de Vida del Software, Metodologías Ágiles
+- **Infraestructura:** Docker, SO (Windows y Linux), redes (capas de red, modelo OSI).
 
 ---
 
