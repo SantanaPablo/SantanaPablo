@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 Sobre mí
-Desarrollador Backend .NET y técnico especializado en la optimización de procesos empresariales. Desarrollé soluciones aplicando mis conocimientos en C#, .NET, SQL y Python que mejoran la eficiencia operativa en sectores de Aerolíneas Argentinas y reducen errores manuales.
+Desarrollador .NET y técnico especializado en la optimización de procesos empresariales. Desarrollé soluciones aplicando mis conocimientos en C#, .NET, SQL y Python que mejoran la eficiencia operativa en sectores de Aerolíneas Argentinas y reducen errores manuales.
 
 ---
 
