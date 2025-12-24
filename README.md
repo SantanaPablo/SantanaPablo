@@ -71,7 +71,7 @@ Desarrollador .NET y técnico especializado en la optimización de procesos empr
 ## 📂 Proyectos Destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| [**ImpresorasWEB**](https://github.com/SantanaPablo/ImpresorasWEB) | Monitoreo de impresoras vía OIDs | ASP.NET Core, MySQL |
+| [**Monitor de Impresoras**](https://github.com/SantanaPablo/MonitorImpresoras) | Monitoreo de impresoras vía OIDs | ASP.NET Core, MySQL | Clean Code
 | [**Remitos**](https://github.com/SantanaPablo/remitos) | Aplicación web desarrollada en ASP.NET Core (Razor Pages) para gestionar entradas y salidas de equipos entre Aeroparque y Ezeiza | ASP.NET Core, Razor Pages, MySQL, BarTender
 | [**ReportesVuelos**](https://github.com/SantanaPablo/ReportesVuelos) | Generador de reportes PDF de vuelos y declaraciones juradas para migraciones | C#, WinForms, iTextSharp, pdfiumviewer |
 
