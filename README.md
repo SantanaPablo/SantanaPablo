@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Pablo Adrián Britez Santana</h1>
-<h3 align="center">💻 Desarrollador .NET | Soporte Técnico Especializado</h3>
+<h3 align="center">💻 Desarrollador .NET </h3>
 
 📍 Lanús, Provincia de Buenos Aires  
 📞 (+54) 11-5322-2165  
@@ -8,33 +8,29 @@
 
 ---
 
-## 🚀 Sobre mí
-Desarrollador .NET y técnico especializado en la optimización de procesos empresariales. Desarrollé soluciones aplicando mis conocimientos en C#, .NET, SQL y Python que mejoran la eficiencia operativa en sectores de Aerolíneas Argentinas y reducen errores manuales.
+Desarrollador .NET con experiencia en automatización de procesos empresariales y desarrollo de APIs REST. Sólidos conocimientos en C#, .NET, SQL y Python, aplicando principios SOLID, Inyección de Dependencias, Clean Architecture y Domain-Driven Design (DDD) para construir soluciones desacopladas, escalables y mantenibles. Experiencia en entornos productivos de alta demanda, brindando soporte y optimización de sistemas críticos para Aerolíneas Argentinas.
 
 ---
 
 ## 💼 Experiencia
 
 **Ecosistemas** | Aeroparque Internacional Jorge Newbery  
-*Soporte Técnico para Aerolíneas Argentinas*  
+*Desarrollador / Soporte técnico para Aerolíneas Argentinas*  
 📅 Enero 2024 - Actualmente  
-- Automatización de tareas repetitivas mediante **scripts y programas en C# y Python**.  
-- Resolución de incidentes críticos y soporte de software corporativo.
+- Diseñé y desarrollé soluciones integrales en .NET, incluyendo un Generador de Reportes de Vuelos, un Sistema de Remitos y un Monitor de Impresoras para optimizar la logística operativa.
+- Implementé una Base de Conocimiento tipo RAG para centralizar y agilizar el acceso a la información técnica de soporte.
 
 **Expertice SA** | Aeroparque Internacional Jorge Newbery  
 *Soporte Técnico para Aerolíneas Argentinas*  
 📅 Mayo 2023 - Diciembre 2023  
+- Optimicé procesos de soporte técnico, reduciendo tiempos de respuesta.
+- Asistí a usuarios internos en entornos de alta demanda.
 
-**Reflex SA** | Lanús  
-*Soporte Técnico*  
-📅 Noviembre 2015 - Mayo 2023  
-- Gestión de hardware, redes y software, brindando soporte a nivel interno.
 
 ---
 
 ## 🎓 Educación
-- **Tecnicatura Superior en Desarrollo de Software** – ISTEA (2023 - Actualidad)  
-- **Tecnicatura Superior en Analista de Sistemas** – ISFT N° 172 (2018 - 2021)  
+- **Tecnicatura Superior en Desarrollo de Software** – ISTEA (Graduado - Diciembre 2025)  
 
 ---
 
@@ -46,10 +42,11 @@ Desarrollador .NET y técnico especializado en la optimización de procesos empr
 ---
 
 ## 🛠 Habilidades Técnicas
-- **Desarrollo:** C#, .NET, ASP.NET, API Web RESTful, ADO.NET, EF, Javascript, Python
-- **Bases de datos:** Microsoft SQL Server, MySQL.
-- **Metodologías y Herramientas:** POO, Patrones de Diseño, UML, Ciclo de Vida del Software, Metodologías Ágiles
-- **Infraestructura:** Docker, SO (Windows y Linux), redes (capas de red, modelo OSI).
+- **Lenguajes y Desarrollo::** C#, .NET, ASP.NET Core, APIs RESTful, ADO.NET, Entity Framework, JavaScript, Python
+- **Arquitectura y Diseño:** Principios SOLID, Inyección de Dependencias, Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern, Patrones de Diseño, Desacoplamiento
+- **Bases de datos::** Microsoft SQL Server, MySQL
+- **Metodologías y Herramientas:** POO, UML, Ciclo de Vida del Software, Metodologías Ágiles
+- **Infraestructura:** Docker, Windows, Linux, Nginx, redes (capas de red, modelo OSI, protocolos)
 
 ---
 
